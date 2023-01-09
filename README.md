@@ -17,3 +17,7 @@ Exemplo, sortear uma das palavras (Computador, java ou Git):
 ![image](https://user-images.githubusercontent.com/66887891/211423772-889b6861-2b24-4983-af77-d39d8911a16a.png)
 
 Nesse exemplo foi sorteada a palavra "Java"
+
+# Usando a Aplicação:
+
+Para testar a aplicação, basta fazer o download do arquivo "Sorteador.jar"
